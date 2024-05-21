@@ -129,11 +129,31 @@
   --vp-custom-block-tip-code-bg: var(--vp-c-brand-soft);
 }
 
-.main {
+.VPHome .main {
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
+}
+
+body {
+  font-size: 15px;
+  font-weight: 400;
+  /* color: rgb(51, 51, 51); */
+  line-height: 2;
+}
+
+.vp-doc :not(pre, h1, h2, h3, h4, h5, h6) > code {
+  background-color: #fff5f5;
+  color: #ff502c;
+}
+
+.aside-container { 
+  width: 300px !important;
+}
+
+h4 {
+  margin-top: 20px;
 }
 
 /**
