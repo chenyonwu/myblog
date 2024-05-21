@@ -2,8 +2,8 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "程序员皮皮伍",
-  description: "皮皮伍的技术博客",
+  title: "皮皮伍的学习日志",
+  description: "皮皮伍的学习日志",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
@@ -170,5 +170,9 @@ export default defineConfig({
     socialLinks: [
       { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
     ]
+  },
+  markdown: {
+    lineNumbers: true,
+    math: true,
   }
 })

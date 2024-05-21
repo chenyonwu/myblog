@@ -3,9 +3,11 @@
 layout: home
 
 hero:
-  name: "程序员皮皮伍"
-  # text: "一个记录学习生活的技术博客"
-  tagline: 一名励志成为系统架构师的小白
+  name: "皮皮伍的学习日志"
+  text: "一个记录日常学习生活的博客网站"
+  tagline: 学无止境
+  image:
+    src: '/vitepress-logo-large.webp'
   actions:
     - theme: brand
       text: Markdown Examples

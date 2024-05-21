@@ -129,13 +129,6 @@
   --vp-custom-block-tip-code-bg: var(--vp-c-brand-soft);
 }
 
-.VPHome .main {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-}
-
 body {
   font-size: 15px;
   font-weight: 400;
@@ -152,8 +145,16 @@ body {
   width: 300px !important;
 }
 
+h1 {
+  font-size: 32px !important;
+}
+
 h4 {
   margin-top: 20px;
+}
+
+.VPHero .text {
+  font-size: 32px !important;
 }
 
 /**
