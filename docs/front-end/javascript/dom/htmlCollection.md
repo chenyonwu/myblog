@@ -1,0 +1,1 @@
+# HTMLCollection 接口

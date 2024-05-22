@@ -17,11 +17,11 @@ hero:
       link: /api-examples
 
 features:
-  - title: Web 前端
-    details: HTML5、CSS3、JavaScript、Node.js、Vue、React、Nest.js...
-  - title: Java 后端
-    details: JavaSE、JavaWeb、MySQL、SprintBoot、SprintCloud、Mybatis、Redis...
-  - title: 计算机科学
-    details: 计算机组成原理、计算机操作系统、数据结构与算法、计算机网络...
+  - title: 深入研究 JavaScript
+    details: ES5、ES6、JavaScript 数据结构与算法、JavaScript 设计模式
+  - title: Vue 技术栈
+    details: Vue3、VueRouter、Pinia、Vite
+  - title: React 技术栈
+    details: React、Webpack
 ---
 
