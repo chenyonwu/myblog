@@ -42,10 +42,6 @@ export default defineConfig({
             link: '/front-end/javascript/ecmascript6/index',
           },
           {
-            text: '深入理解 ES6',
-            link: '/front-end/javascript/books/深入理解ES6',
-          },
-          {
             text: '你不知道的 JavaScript',
             link: '/front-end/javascript/books/你不知道的JavaScript',
           },
