@@ -189,5 +189,11 @@ export default defineConfig({
   markdown: {
     lineNumbers: true,
     math: true,
+  },
+  vite: {
+    server: {
+      host: true,
+      port: 10110,
+    }
   }
 })
